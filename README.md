@@ -35,4 +35,4 @@
    ```
        yarn start
    ```
-   You can change the env variables according to your variables.
+   Change the env variables according to your variables to run the project completely.
