@@ -35,3 +35,4 @@
    ```
        yarn start
    ```
+   You can change the env variables according to your variables.
